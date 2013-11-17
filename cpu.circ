@@ -37,7 +37,7 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     </tool>
     <tool name="Constant">
       <a name="width" val="4"/>
-      <a name="value" val="0x6"/>
+      <a name="value" val="0x8"/>
     </tool>
     <tool name="Bit Extender">
       <a name="type" val="sign"/>
@@ -1182,6 +1182,7 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <a name="clabel" val=""/>
     <a name="clabelup" val="east"/>
     <a name="clabelfont" val="SansSerif plain 12"/>
+    <wire from="(170,1060)" to="(170,1100)"/>
     <wire from="(270,230)" to="(360,230)"/>
     <wire from="(820,710)" to="(830,710)"/>
     <wire from="(550,670)" to="(600,670)"/>
@@ -1199,7 +1200,6 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <wire from="(590,540)" to="(590,590)"/>
     <wire from="(790,600)" to="(790,620)"/>
     <wire from="(220,180)" to="(230,180)"/>
-    <wire from="(170,1060)" to="(170,1110)"/>
     <wire from="(640,670)" to="(650,670)"/>
     <wire from="(810,1010)" to="(830,1010)"/>
     <wire from="(170,890)" to="(170,900)"/>
@@ -1256,6 +1256,7 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <wire from="(500,700)" to="(550,700)"/>
     <wire from="(130,280)" to="(140,280)"/>
     <wire from="(770,970)" to="(830,970)"/>
+    <wire from="(120,1100)" to="(170,1100)"/>
     <wire from="(730,580)" to="(800,580)"/>
     <wire from="(100,880)" to="(110,880)"/>
     <wire from="(270,540)" to="(360,540)"/>
@@ -1415,7 +1416,6 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <wire from="(100,620)" to="(140,620)"/>
     <wire from="(270,350)" to="(300,350)"/>
     <wire from="(330,290)" to="(330,310)"/>
-    <wire from="(120,1110)" to="(170,1110)"/>
     <wire from="(310,350)" to="(310,370)"/>
     <wire from="(360,280)" to="(370,280)"/>
     <wire from="(150,940)" to="(190,940)"/>
