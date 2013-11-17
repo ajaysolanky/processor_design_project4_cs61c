@@ -1780,6 +1780,7 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     </comp>
     <comp lib="5" loc="(120,1070)" name="Comparator">
       <a name="width" val="2"/>
+      <a name="mode" val="unsigned"/>
     </comp>
     <comp lib="3" loc="(410,360)" name="Multiplexer">
       <a name="select" val="4"/>
