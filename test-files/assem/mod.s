@@ -15,5 +15,5 @@ continue:
 return:
 		lui $r1 0
 		lw $r3 2($r1)
-		sw $r0 0($r1)
+		sw $r0 2($r1)
 		jr $r3
